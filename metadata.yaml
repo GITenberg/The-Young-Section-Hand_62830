@@ -1,5 +1,5 @@
 _repo: The-Young-Section-Hand_62830
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Bridgman, L. J. (Lewis Jesse)
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1931
     gutenberg_agent_id: '8122'
     url: http://www.gutenberg.org/2009/agents/8122
+covers:
+- cover_type: archival
+  image_path: 62830-h/images/cover.jpg
 creator:
   author:
     agent_name: Stevenson, Burton Egbert
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/980
     wikipedia: https://en.wikipedia.org/wiki/Burton_Egbert_Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62830#The-Young-Section-Hand
 gutenberg_issued: '2020-08-03'
 gutenberg_type: Text
 identifiers:
